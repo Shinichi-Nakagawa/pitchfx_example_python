@@ -1,3 +1,3 @@
-[submodule "pfx_parser"]
-	path = pfx_parser
-	url = git@github.com:Shinichi-Nakagawa/pfx_parser.git
+[submodule "pitchpx"]
+	path = pitchpx
+	url = git@github.com:Shinichi-Nakagawa/pitchpx.git

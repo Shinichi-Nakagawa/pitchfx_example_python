@@ -1,5 +1,6 @@
 appnope==0.1.0
 beautifulsoup4==4.4.1
+bokeh==0.11.1
 brewer2mpl==1.4.1
 click==6.2
 cycler==0.9.0
@@ -31,7 +32,8 @@ path.py==8.1.2
 patsy==0.4.1
 pexpect==4.0.1
 pickleshare==0.6
-pitchpx==1.3
+pitchpx==2.1
+prettyplotlib==0.1.7
 ptyprocess==0.5.1
 Pygments==2.1
 pyparsing==2.1.0
@@ -40,6 +42,7 @@ pytz==2015.7
 PyYAML==3.11
 pyzmq==15.2.0
 qtconsole==4.1.1
+requests==2.9.1
 scipy==0.17.0
 seaborn==0.7.0
 simplegeneric==0.8.1
